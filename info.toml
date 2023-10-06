@@ -1198,13 +1198,13 @@ hint = "you should use unsafe"
 [[exercises]]
 name = "tests7"
 path = "exercises/tests/tests7.rs"
-mode = "test"
+mode = "buildscript"
 hint = "no hint"
 
 [[exercises]]
 name = "tests8"
 path = "exercises/tests/tests8.rs"
-mode = "test"
+mode = "buildscript"
 hint = "no hint"
 
 [[exercises]]
