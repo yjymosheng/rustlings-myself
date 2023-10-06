@@ -1,6 +1,6 @@
-// drive1.rs
+// tests5.rs
 //
-// Execute `rustlings hint drive1` or use the `hint` watch subcommand for a
+// Execute `rustlings hint tests5` or use the `hint` watch subcommand for a
 // hint.
 
 // I AM NOT DONE

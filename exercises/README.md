@@ -25,4 +25,3 @@
 | macros                 | §19.6               |
 | clippy                 | §21.4               |
 | conversions            | n/a                 |
-| drive                  | n/a                 |

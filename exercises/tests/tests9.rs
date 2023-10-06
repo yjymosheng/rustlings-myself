@@ -1,4 +1,4 @@
-// drive5.rs
+// tests9.rs
 // Your task is to make the testcase be able to call the `my_demo_function` in module Foo.
 // the `my_demo_function_alias` is an alias for `my_demo_function_alias`, so the two line of
 // code in the testcase should call the same function.

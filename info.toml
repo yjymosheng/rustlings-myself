@@ -1181,34 +1181,34 @@ hint = """
 Add AsRef<str> or AsMut<u32> as a trait bound to the functions."""
 
 
-# 强化训练 DRIVE
+# 强化训练 TESTS
 
 [[exercises]]
-name = "drive1"
-path = "exercises/drive/drive1.rs"
+name = "tests5"
+path = "exercises/tests/tests5.rs"
 mode = "test"
 hint = "you should use unsafe"
 
 [[exercises]]
-name = "drive2"
-path = "exercises/drive/drive2.rs"
+name = "tests6"
+path = "exercises/tests/tests6.rs"
 mode = "test"
 hint = "you should use unsafe"
 
 [[exercises]]
-name = "drive3"
-path = "exercises/drive/drive3.rs"
+name = "tests7"
+path = "exercises/tests/tests7.rs"
 mode = "buildscript"
 hint = "no hint"
 
 [[exercises]]
-name = "drive4"
-path = "exercises/drive/drive4.rs"
+name = "tests8"
+path = "exercises/tests/tests8.rs"
 mode = "buildscript"
 hint = "no hint"
 
 [[exercises]]
-name = "drive5"
-path = "exercises/drive/drive5.rs"
+name = "tests9"
+path = "exercises/tests/tests9.rs"
 mode = "test"
 hint = "to return a string \"Hello\"  eg: String::from(\"Hello\")"
