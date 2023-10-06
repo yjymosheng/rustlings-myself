@@ -1,11 +1,3 @@
-# 2023 CICV 自动驾驶 OS 开发训练营 
-
-## CICV OS 训练营
-<https://github.com/cicvedu>
-
-## 训练营课程主页
-<https://cicvedu.com/>
-
 # rustlings 🦀❤️
 
 </div>
