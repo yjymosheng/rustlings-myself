@@ -1187,28 +1187,37 @@ Add AsRef<str> or AsMut<u32> as a trait bound to the functions."""
 name = "tests5"
 path = "exercises/tests/tests5.rs"
 mode = "test"
-hint = "you should use unsafe"
+hint = """
+For more information about `unsafe` and soundness, see
+https://doc.rust-lang.org/nomicon/safe-unsafe-meaning.html"""
 
 [[exercises]]
 name = "tests6"
 path = "exercises/tests/tests6.rs"
 mode = "test"
-hint = "you should use unsafe"
+hint = """
+The function to transform a box to a raw pointer is called `Box::into_raw`, while
+the function to reconstruct a box from a raw pointer is called `Box::from_raw`.
+Search the official API documentation for more information:
+https://doc.rust-lang.org/nightly/std/index.html"""
 
 [[exercises]]
 name = "tests7"
 path = "exercises/tests/tests7.rs"
 mode = "buildscript"
-hint = "no hint"
+hint = """
+The command to set up an environment variable is "rustc-env=VAR=VALUE"."""
 
 [[exercises]]
 name = "tests8"
 path = "exercises/tests/tests8.rs"
 mode = "buildscript"
-hint = "no hint"
+hint = """
+The command to set up an environment variable is "rustc-cfg=CFG[="VALUE"]", while
+the square brackets means optional. Be sure what `CFG` and `VALUE` you want here."""
 
 [[exercises]]
 name = "tests9"
 path = "exercises/tests/tests9.rs"
 mode = "test"
-hint = "to return a string \"Hello\"  eg: String::from(\"Hello\")"
+hint = "No hints this time!"
