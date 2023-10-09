@@ -1,3 +1,8 @@
+# 2023秋冬季操作系统训练营
+
+[**第一阶段训练安排**](https://github.com/LearningOS/rust-based-os-comp2023/blob/main/2023-autumn-scheduling-1.md)
+- [rustlings Rust编程训练教室](https://classroom.github.com/a/gbr5Jk7V)
+
 # rustlings 🦀❤️
 
 </div>
