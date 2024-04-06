@@ -103,7 +103,6 @@ fn compile_and_test(exercise: &Exercise, run_mode: RunMode, verbose: bool, succe
 
     match result {
         Ok(output) => {
-			// println!("{}", output.stdout);
             if verbose {
                 println!("{}", output.stdout);
             }
