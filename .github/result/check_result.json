@@ -439,46 +439,6 @@
 	{
 		"name": "algorithm10",
 		"result": false
-	},
-	{
-		"name": "algorithm11",
-		"result": false
-	},
-	{
-		"name": "algorithm12",
-		"result": false
-	},
-	{
-		"name": "algorithm13",
-		"result": false
-	},
-	{
-		"name": "algorithm14",
-		"result": false
-	},
-	{
-		"name": "algorithm15",
-		"result": false
-	},
-	{
-		"name": "algorithm16",
-		"result": false
-	},
-	{
-		"name": "algorithm17",
-		"result": false
-	},
-	{
-		"name": "algorithm18",
-		"result": false
-	},
-	{
-		"name": "algorithm19",
-		"result": false
-	},
-	{
-		"name": "algorithm20",
-		"result": false
 	}
   ],
   "user_name": null,
