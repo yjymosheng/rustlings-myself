@@ -1,4 +1,7 @@
-/*queue:use a queue to realize a stack*/
+/*
+	queue
+	This question requires you to use queues to implement the functionality of the stac
+*/
 // I AM NOT DONE
 
 #[derive(Debug)]

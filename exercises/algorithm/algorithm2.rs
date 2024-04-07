@@ -1,4 +1,7 @@
-/*double linked list reverse*/
+/*
+	double linked list reverse
+	This problem requires you to reverse a doubly linked list
+*/
 // I AM NOT DONE
 
 use std::fmt::{self, Display, Formatter};

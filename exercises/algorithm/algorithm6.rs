@@ -1,4 +1,7 @@
-/*dfs*/
+/*
+	dfs
+	This problem requires you to implement a basic DFS traversal
+*/
 
 // I AM NOT DONE
 use std::collections::HashSet;
