@@ -399,7 +399,47 @@
     {
       "name": "hashmaps3",
       "result": false
-    }
+    },
+	{
+		"name": "algorithm1",
+		"result": false
+	},
+	{
+		"name": "algorithm2",
+		"result": false
+	},
+	{
+		"name": "algorithm3",
+		"result": false
+	},
+	{
+		"name": "algorithm4",
+		"result": false
+	},
+	{
+		"name": "algorithm5",
+		"result": false
+	},
+	{
+		"name": "algorithm6",
+		"result": false
+	},
+	{
+		"name": "algorithm7",
+		"result": false
+	},
+	{
+		"name": "algorithm8",
+		"result": false
+	},
+	{
+		"name": "algorithm9",
+		"result": false
+	},
+	{
+		"name": "algorithm10",
+		"result": false
+	}
   ],
   "user_name": null,
   "statistics": {
